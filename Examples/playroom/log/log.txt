@@ -1,0 +1,6 @@
+20:21:43.989 [ERROR] - [org.bsu.playroom.create.ToyCreator] - Cant find type of the string
+20:21:44.131 [INFO ] - [org.bsu.playroom.Main] - Doll{clothes=DRESS} Toy{id=0, name='Vasya', size=BIG, createYear=2010, price=4}
+20:21:44.132 [INFO ] - [org.bsu.playroom.Main] - Weapon{bullet=BULLET} Toy{id=1, name='qwer', size=BIG, createYear=0, price=3}
+20:21:44.132 [INFO ] - [org.bsu.playroom.Main] - StuffedToy{filler=COTTON} Toy{id=2, name='qwezxcv', size=BIG, createYear=0, price=2}
+20:21:44.158 [ERROR] - [org.bsu.playroom.read.ToySerializeReader] - [Ljava.lang.StackTraceElement;@20ce78ec
+20:21:44.158 [ERROR] - [org.bsu.playroom.read.ToySerializeReader] - [Ljava.lang.StackTraceElement;@393671df

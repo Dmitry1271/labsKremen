@@ -1,0 +1,1 @@
+17:41:09.737 [ERROR] - [by.dudko.computerwork.read.StringDivision] - java.io.IOException: Bad string

@@ -1,0 +1,1 @@
+08:26:18.679 [ERROR] - [by.bsu.railway.train.reader.FileReader] - File not found! bar.txt (The system cannot find the file specified)

@@ -1,0 +1,1 @@
+16:31:27.790 [ERROR] - [by.dudko.computerwork.entity.Computer] - by.dudko.computerwork.exception.IncorrectValueException: Incorrect RAM of computer

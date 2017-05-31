@@ -1,0 +1,1 @@
+16:28:45.217 [ERROR] - [by.dudko.paperabout.entity.drowingexercisebook.DrawingExerciseBook] - Incorrect number of drawings

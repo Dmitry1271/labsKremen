@@ -1,0 +1,4 @@
+02:39:08.020 [ERROR] - [org.bsu.playroom.create.ToyCreator] - Cant find type of the string
+02:39:08.075 [INFO ] - [org.bsu.playroom.Main] - Doll{clothes=DRESS} Toy{id=0, name='Vasya', size=BIG, createYear=2010, price=4}
+02:39:08.076 [INFO ] - [org.bsu.playroom.Main] - Weapon{bullet=BULLET} Toy{id=1, name='qwer', size=BIG, createYear=0, price=3}
+02:39:08.076 [INFO ] - [org.bsu.playroom.Main] - StuffedToy{filler=COTTON} Toy{id=2, name='qwezxcv', size=BIG, createYear=0, price=2}

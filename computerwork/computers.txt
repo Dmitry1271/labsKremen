@@ -1,0 +1,2 @@
+1, laptop, i5 core, win 7, 6
+2, desktop, i7 core, win 10, 8

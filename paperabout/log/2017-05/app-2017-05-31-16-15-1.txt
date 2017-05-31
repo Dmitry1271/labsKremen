@@ -1,0 +1,1 @@
+16:14:01.080 [ERROR] - [by.dudko.paperabout.read.DrawingExerciseBookReader] - File didn't find

@@ -1,0 +1,3 @@
+{"id":0,"name":"sdafv","power":3000,"price":4,"createYear":2010,"plugged":true,"color":"GREY"}
+{"id":1,"name":"gtnhj","power":1500,"price":3,"createYear":1500,"plugged":false,"material":"STEEL"}
+{"id":2,"name":"qnyg","power":600,"price":2,"createYear":2009,"plugged":false,"numberModes":8}

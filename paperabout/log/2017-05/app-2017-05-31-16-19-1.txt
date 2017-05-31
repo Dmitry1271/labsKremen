@@ -1,0 +1,2 @@
+16:18:45.743 [ERROR] - [by.dudko.paperabout.entity.ExerciseBook] - by.dudko.paperabout.exception.IncorrectValueException: Incorrect page number
+16:19:33.623 [ERROR] - [by.dudko.paperabout.entity.ExerciseBook] - by.dudko.paperabout.exception.IncorrectValueException: Incorrect price

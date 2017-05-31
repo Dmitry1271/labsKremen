@@ -1,0 +1,12 @@
+21:03:28.211 [ERROR] - [org.bsu.playroom.create.ToyCreator] - Cant find type of the string
+21:03:28.258 [INFO ] - [org.bsu.playroom.Main] - Doll{clothes=DRESS} Toy{id=0, name='Vasya', size=BIG, createYear=2010, price=4}
+21:03:28.259 [INFO ] - [org.bsu.playroom.Main] - Weapon{bullet=BULLET} Toy{id=1, name='qwer', size=BIG, createYear=0, price=3}
+21:03:28.259 [INFO ] - [org.bsu.playroom.Main] - StuffedToy{filler=COTTON} Toy{id=2, name='qwezxcv', size=BIG, createYear=0, price=2}
+21:03:28.262 [ERROR] - [org.bsu.playroom.read.ToySerializeReader] - [Ljava.lang.StackTraceElement;@20ce78ec
+21:03:28.262 [ERROR] - [org.bsu.playroom.read.ToySerializeReader] - [Ljava.lang.StackTraceElement;@393671df
+21:03:45.262 [ERROR] - [org.bsu.playroom.create.ToyCreator] - Cant find type of the string
+21:03:45.266 [INFO ] - [org.bsu.playroom.Main] - Doll{clothes=DRESS} Toy{id=0, name='Vasya', size=BIG, createYear=2010, price=4}
+21:03:45.266 [INFO ] - [org.bsu.playroom.Main] - Weapon{bullet=BULLET} Toy{id=1, name='qwer', size=BIG, createYear=0, price=3}
+21:03:45.267 [INFO ] - [org.bsu.playroom.Main] - StuffedToy{filler=COTTON} Toy{id=2, name='qwezxcv', size=BIG, createYear=0, price=2}
+21:03:45.268 [ERROR] - [org.bsu.playroom.read.ToySerializeReader] - [Ljava.lang.StackTraceElement;@619713e5
+21:03:45.269 [ERROR] - [org.bsu.playroom.read.ToySerializeReader] - [Ljava.lang.StackTraceElement;@708f5957

@@ -1,0 +1,2 @@
+09:12:35.218 [ERROR] - [org.bsu.playroom.create.ToyCreator] - Cant find type of the string
+09:13:21.073 [ERROR] - [org.bsu.playroom.create.ToyCreator] - Cant find type of the string

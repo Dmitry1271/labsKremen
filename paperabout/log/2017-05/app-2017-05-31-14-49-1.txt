@@ -1,0 +1,2 @@
+14:49:20.444 [ERROR] - [by.dudko.paperabout.read.DrawingExerciseBookReader] - [Ljava.lang.StackTraceElement;@1cab0bfb
+14:49:31.852 [ERROR] - [by.dudko.paperabout.read.DrawingExerciseBookReader] - [Ljava.lang.StackTraceElement;@1cab0bfb

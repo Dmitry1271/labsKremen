@@ -1,0 +1,1 @@
+08:47:53.532 [ERROR] - [by.dudko.electricalappliances.entity.ElectricalAppliance] - Can't found type of the string

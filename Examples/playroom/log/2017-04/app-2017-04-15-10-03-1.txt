@@ -1,0 +1,8 @@
+10:02:31.168 [INFO ] - [org.bsu.playroom.Main] - Doll{clothes=DRESS} Toy{id=0, name='Vasya', size=BIG, createYear=2010, price=4}
+10:02:31.184 [INFO ] - [org.bsu.playroom.Main] - Weapon{bullet=BULLET} Toy{id=1, name='qwer', size=BIG, createYear=0, price=3}
+10:02:31.184 [INFO ] - [org.bsu.playroom.Main] - StuffedToy{filler=COTTON} Toy{id=2, name='qwezxcv', size=BIG, createYear=0, price=2}
+10:02:31.185 [INFO ] - [org.bsu.playroom.Main] - Doll{clothes=null} Toy{id=4, name='qwezxcv', size=BIG, createYear=0, price=null}
+10:03:02.448 [ERROR] - [org.bsu.playroom.create.ToyCreator] - Cant find type of the string
+10:03:02.453 [INFO ] - [org.bsu.playroom.Main] - Doll{clothes=DRESS} Toy{id=0, name='Vasya', size=BIG, createYear=2010, price=4}
+10:03:02.453 [INFO ] - [org.bsu.playroom.Main] - Weapon{bullet=BULLET} Toy{id=1, name='qwer', size=BIG, createYear=0, price=3}
+10:03:02.453 [INFO ] - [org.bsu.playroom.Main] - StuffedToy{filler=COTTON} Toy{id=2, name='qwezxcv', size=BIG, createYear=0, price=2}

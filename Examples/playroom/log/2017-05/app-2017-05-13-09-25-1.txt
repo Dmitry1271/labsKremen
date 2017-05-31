@@ -1,0 +1,5 @@
+10:25:54.114 [ERROR] - [org.bsu.playroom.create.ToyCreator] - Cant find type of the string
+10:25:54.137 [INFO ] - [org.bsu.playroom.Main] - Doll{clothes=DRESS} Toy{id=0, name='Vasya', size=BIG, createYear=2010, price=4}
+10:25:54.137 [INFO ] - [org.bsu.playroom.Main] - Weapon{bullet=BULLET} Toy{id=1, name='qwer', size=BIG, createYear=0, price=3}
+10:25:54.138 [INFO ] - [org.bsu.playroom.Main] - StuffedToy{filler=COTTON} Toy{id=2, name='qwezxcv', size=BIG, createYear=0, price=2}
+10:25:54.153 [INFO ] - [org.bsu.playroom.read.ToySerializeReader] - Serialized data is saved in /tmp/toy.ser

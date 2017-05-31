@@ -1,0 +1,1 @@
+17:28:39.484 [ERROR] - [by.dudko.computerwork.entity.Computer] - by.dudko.computerwork.exception.BadDataException: Bad string

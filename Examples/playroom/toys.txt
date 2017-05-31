@@ -1,0 +1,4 @@
+{"id":0,"name":"Vasya","size":"BIG","createYear":2010,"price":4,"clothes":"DRESS"}
+{"id":1,"name":"qwer","size":"BIG","createYear":0,"price":3,"bullet":"BULLET"}
+{"id":2,"name":"qwezxcv","size":"BIG","createYear":0,"price":2,"filler":"COTTON"}
+{"id":4,"name":"qwezxcv","size":"LKASJD","createYear":0}
